@@ -3,7 +3,7 @@
     "description": "Xpdf is an open source viewer for Portable Document Format (PDF) files. (These are also sometimes also called 'Acrobat' files, from the name of Adobe's PDF software.) The Xpdf project also includes a PDF text extractor, PDF-to-PostScript converter, and various other utilities. Static linked linux binary for x86 systems.",
     "keywords": ["pdf", "xpdf", "snapshot", "wkhtmltopdf", "convert", "binary"],
     "license": "GPL Version 3",
-    "homepage": "http://wkhtmltopdf.org/",
+    "homepage": "http://www.foolabs.com/xpdf/index.html",
     "authors": [
         {
             "name": "Derek B. Noonburg",
